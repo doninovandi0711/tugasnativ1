@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">doninovandi</string>
+    <string name="moveactivity">moveactivity</string>
+    <string name="movewhithdata">movewhithdata</string>
+    <string name="data_received">data_received</string>
+    <string name="move_with_object">move_with_object</string>
+    <string name="object_received">Object Received</string>
+</resources>
